@@ -132,4 +132,10 @@ def body_mass_index(weight, height):
     bmi = weight_kg / (height_m ** 2)
 
     return bmi
+
+    #Fake Code
+    weight = 150
+    height = 5'10
+    
+    Estimated Result: 23.7
     
